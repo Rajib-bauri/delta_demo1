@@ -1,2 +1,3 @@
 # delta_demo1
-it is the git &amp; github class.
+This is the git &amp; github class.
+it's only for learning purpose.
